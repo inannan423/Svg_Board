@@ -766,8 +766,8 @@
               <div>点击获取帮助</div>
             </a>
 
-            <a style="margin-top:3px;text-decoration: none;color:rgb(68, 195, 224)" href="https://github.com/inannan423"
-              target="_blank">
+            <a style="margin-top:3px;text-decoration: none;color:rgb(68, 195, 224)"
+              href="https://github.com/inannan423/Svg_Board" target="_blank">
               <div>仓库地址</div>
             </a>
           </div>
